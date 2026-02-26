@@ -1,0 +1,7 @@
+sample	overall_alignment_percent	aligned_read_n
+hcc1395_tumor_rep3	98.74	367128
+hcc1395_tumor_rep2	98.49	366634
+hcc1395_normal_rep2	96.71	308444
+hcc1395_normal_rep1	96.58	305485
+hcc1395_normal_rep3	96.74	308496
+hcc1395_tumor_rep1	98.50	364030
